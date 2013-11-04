@@ -1,0 +1,27 @@
+<resources>
+
+    <string name="app_name">Currency Converter</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Currency Converter</string>
+    <string name="text_result">0.0</string>
+    <string name="hint_entry">Please Enter The Amount</string>
+    <string name="convert_dol">Convert to USD</string>
+    <string name="convert_rup">Convert to INR</string>
+    <string name="home_instruct">Please Select Type of Conversion</string>
+    <string name="app_about">About</string>
+    <string name="currency_local">From</string>
+    <string name="currency_forign">To</string>
+ 
+    <string-array name="currency_arrays_local">
+        <item>INR</item>
+    </string-array>
+    <string-array name="currency_arrays_foreign">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>AUD</item>
+    </string-array>
+        <string name="convert">Convert</string>
+
+</resources>
